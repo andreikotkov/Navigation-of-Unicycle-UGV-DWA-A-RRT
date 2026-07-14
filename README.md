@@ -41,7 +41,7 @@ The main additions are:
 ### MATLAB Application
 
 <p align="center">
-  <img src="assets/stats_results_DWA.jpg" alt="MATLAB App Designer interface" width="850">
+  <img src="assets/stats_result_DWA.jpg" alt="MATLAB App Designer interface" width="850">
 </p>
 
 The interface can be used to:
